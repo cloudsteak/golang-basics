@@ -23,7 +23,6 @@ mkdir <projectname>
 cd <projectname>
 ```
 
-
 ## VS Code debug settings
 
 Create the launch.json under the .vscode directory
@@ -51,7 +50,10 @@ Create the launch.json under the .vscode directory
 }
 ```
 
-
 ## Other info
 
 1. Avoid to use port 5000 and 7000 on MacBook. They are used by MacOS
+
+2. Install all required packages: `go get .`
+
+3. Run go project: `go run .`
