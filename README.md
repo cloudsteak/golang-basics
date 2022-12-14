@@ -54,4 +54,4 @@ Create the launch.json under the .vscode directory
 
 ## Other info
 
-1. Avoid to use port 5000 ans 7000 on MacBook. They are used by MacOS
+1. Avoid to use port 5000 and 7000 on MacBook. They are used by MacOS
