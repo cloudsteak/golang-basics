@@ -1,8 +1,7 @@
 # Go lang basics
 
-EN: Some basic thing about Go development.
-
-HU: Néhány alap dolog Go fejlesztéshez
+- EN: Some basic thing about Go development
+- HU: Néhány alap dolog Go fejlesztéshez
 
 
 ## Choose your language
