@@ -13,7 +13,7 @@ go mod init <projectname>
 ## Visual Studio Code debug beállítások
 
 1. Hozdd létre a `launch.json` fájlt a `.vscode` mappában
-2. `main.go` az projekt fő állománya. Ehhez állítjuk be a hibakeresést is
+2. `main.go` a projekt fő állománya. Ehhez állítjuk be a hibakeresést is
 
 ```json
 {
