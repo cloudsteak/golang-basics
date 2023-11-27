@@ -19,9 +19,9 @@ go verison
 
 3. Ha készen van indítsd el, hogy telepítsünk néhány kiegészítőt
 4. Kiegészítők:
-    1. Nyomd meg a CTRL + SHIFT + X billentyűket egyszerre
-    2. **Nyelv telepítése**: Keress rá a `Hungarian` kifejezésre, mad a találatoknél telepítsd fel (`Install`) a kiegészítőt. Majd CTRL + SHIFT + P, keress rá a `Configure language` kifejezésre és válaszd a `magyar` lehetőséget. A VS Code kéri a program újraindítását. Ezután már magyarul fog a VS Code elindulni.
-    3. Go kiegészítők: (CTRL + SHIFT + X) Keress rá a `Go` kifejezésre. Az első `Go` nevű kiegészítőt telepítsd fel
+   1. Nyomd meg a CTRL + SHIFT + X billentyűket egyszerre
+   2. **Nyelv telepítése**: Keress rá a `Hungarian` kifejezésre, mad a találatoknél telepítsd fel (`Install`) a kiegészítőt. Majd CTRL + SHIFT + P, keress rá a `Configure language` kifejezésre és válaszd a `magyar` lehetőséget. A VS Code kéri a program újraindítását. Ezután már magyarul fog a VS Code elindulni.
+   3. Go kiegészítők: (CTRL + SHIFT + X) Keress rá a `Go` kifejezésre. Az első `Go` nevű kiegészítőt telepítsd fel
 5. Zárd be a Visual Studio Code-ot
 
 ## Projekt létrehozás
@@ -41,6 +41,7 @@ cd elsoprojekt
 ```
 
 5. Készítsd el a projekted alap struktúráját
+
 ```bash
 go mod init elsoprojekt
 ```
@@ -59,7 +60,7 @@ Megjegyzés: `Do you trust the authors of the files in this folder?` kérdés es
 go install -v golang.org/x/tools/gopls@latest
 ```
 
-Most már készen állunk az utazásra a Go világában!
+Most már készen állunk az utazásra a Go világában! :-)
 
 ## Visual Studio Code debug beállítások
 
