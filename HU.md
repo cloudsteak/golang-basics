@@ -36,7 +36,7 @@ go mod init <projectname>
 }
 ```
 
-##Egyéb
+## Egyéb
 
 1. MacOS esetén kerüld a projektekben az 5000-es és a 7000-es portok használatát, mert ezek használatban vannak az OS által.
 2. Szükséges csomagok telepítése: `go get .`
